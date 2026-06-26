@@ -1,0 +1,6 @@
+{
+  "name": "Smart AI Student Health Monitor",
+  "description": "An interactive well-being monitor and conversational AI assistant designed for students to manage academic stress, sleep habits, mental health, and wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
